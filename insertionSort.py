@@ -32,7 +32,7 @@ def printList(arr):
         print("%d" % arr[i])
 
 
-arr = [12, 11, 13, 5, 6]
+arr = [50, 40, 2, 6, 87, 8 ,9 ,10, 42, 69, 33]
 print("\nBefore Insertion Sort")
 printList(arr)
 
